@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#zgornji{
+	width:800px;
+	margin: 0 auto;
+	background-color:rgb(251, 227,206);
+}
+#spodnji{
+	border-top:1px solid grey;
+	width:800px;
+	margin: 0 auto;
+	background-color:rgb(254, 245, 210);
+}
+#inv{
+	visibility:hidden;
+}
+#box{
+	margin:0 0 0 5px;
+	width:15px;
+	height:15px;
+	border:1px solid black;
+	float:right;
+	text-align:center;
+
+}
+.levo{
+	float:left;
+	width:13%;
+	text-align:right;
+	margin:0 10px 0 0;
+}
+.desno{
+	float:left;
+	text-align:left;
+	margin:0 0 0 10px;
+}
+.alignTextR{
+	text-align:right;
+}
+.alignTextL{
+	text-align:left;
+}
+.dateOkno{
+	height:19px;
+	width:150px;
+	margin:0 0 0 10px;
+}
+.srednji{
+	width:350px;
+}
+.srednjiD{
+	width:200px;
+}
+.dolgi{
+	width:550px;
+}
+.srednjiMinus{
+	width:269px;
+}
+.majhen{
+	width:30px;
+}
+.vrstica{
+	overflow:hidden;
+	width:100%;
+}
+.textarea{
+	resize:none;
+	margin-left:32px;
+}
+.odmikT{
+	margin-top:15px;
+}
+.desnoD{
+	float:left;
+	text-align:left;
+	margin:5px 0 0 10px;
+}
+
+.MarginND{
+	margin-left:50px;
+}
+.marginNDM{
+	margin:0 0 0 10px;
+}
+.levoLL{
+	float:left;
+	width:13%;
+	text-align:right;
+	margin:30px 10px 0 0;
+}
+.desnoDD{
+	float:left;
+	text-align:left;
+	margin:30px 0 0 10px;
+}
